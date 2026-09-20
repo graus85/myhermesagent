@@ -17,6 +17,6 @@ OAuth credentials (access and refresh tokens) are stored locally on the owner's 
 ## Third-Party Sharing
 No data is shared with third parties. No data is sold. No data is used for advertising.
 ## Contact
-For any questions regarding this policy, contact: andrea.gracis.ai@gmail.com
+For any questions regarding this policy, contact: andrea.gracis.ai[at]gmail.com
 ## Revocation
 Access can be revoked at any time via [Google Account Permissions](https://myaccount.google.com/permissions).
